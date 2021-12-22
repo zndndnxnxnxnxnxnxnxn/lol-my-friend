@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF0000" x="5" y="5" width="906" height="755"/>
+	<SubTexture name="GF LOOP0000" x="5" y="5" width="906" height="755"/>
+	<SubTexture name="GF SHOCK0000" x="921" y="5" width="890" height="730"/>
+	<SubTexture name="GF SHOCK LOOP0000" x="921" y="5" width="890" height="730"/>
+</TextureAtlas>
