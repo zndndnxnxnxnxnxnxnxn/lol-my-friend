@@ -20,3 +20,4 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+tankman
